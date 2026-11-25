@@ -8,3 +8,7 @@ Gráficos Sankey com o [Google Charts](https://developers.google.com/chart/inter
 - `rege.html` — variação
 
 Abra qualquer um dos arquivos no navegador.
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
